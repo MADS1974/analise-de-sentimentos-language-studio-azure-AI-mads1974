@@ -1,0 +1,57 @@
+{
+    "documents": [
+        {
+            "id": "id__2512",
+            "sentiment": "positive",
+            "confidenceScores": {
+                "positive": 0.98,
+                "neutral": 0.01,
+                "negative": 0
+            },
+            "sentences": [
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.99,
+                        "negative": 0.01
+                    },
+                    "offset": 0,
+                    "length": 90,
+                    "text": "\"Estou em transição de carreira para área de tecnologia, com foco na área de programação. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 1,
+                        "neutral": 0,
+                        "negative": 0
+                    },
+                    "offset": 90,
+                    "length": 215,
+                    "text": "Estou motivado pela busca de conhecimento e um profundo interesse em pesquisas tecnológicas, comprovado por minha participação no PICT (Projeto de Iniciação Científica e Tecnológica) na universidade onde me formei. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.97,
+                        "neutral": 0.03,
+                        "negative": 0
+                    },
+                    "offset": 305,
+                    "length": 163,
+                    "text": "Meu principal objetivo é utilizar a tecnologia como uma ferramenta para impactar positivamente a vida das pessoas, desenvolvendo projetos tecnológicos inovadores.\"",
+                    "targets": [],
+                    "assessments": []
+                }
+            ],
+            "warnings": []
+        }
+    ],
+    "errors": [],
+    "modelVersion": "2022-11-01"
+}

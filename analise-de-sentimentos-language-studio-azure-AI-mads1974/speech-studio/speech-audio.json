@@ -1,0 +1,748 @@
+[
+    {
+        "Id": "108a0cb380de490abdaa71ae4cd38907",
+        "RecognitionStatus": 0,
+        "Offset": 2700000,
+        "Duration": 134400000,
+        "Channel": 0,
+        "DisplayText": "Body people, body people, body people, body people, holly people, holly people, holly people, holly people, holly people.",
+        "NBest": [
+            {
+                "Confidence": 0.58206475,
+                "Lexical": "body people body people body people body people holly people holly people holly people holly people holly people",
+                "ITN": "body people body people body people body people holly people holly people holly people holly people holly people",
+                "MaskedITN": "body people body people body people body people holly people holly people holly people holly people holly people",
+                "Display": "Body people, body people, body people, body people, holly people, holly people, holly people, holly people, holly people.",
+                "Words": [
+                    {
+                        "Word": "body",
+                        "Offset": 2700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "people",
+                        "Offset": 7100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "body",
+                        "Offset": 10300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "people",
+                        "Offset": 21500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "body",
+                        "Offset": 23900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "people",
+                        "Offset": 25500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "body",
+                        "Offset": 41900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "people",
+                        "Offset": 43500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "holly",
+                        "Offset": 58300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "people",
+                        "Offset": 61500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "holly",
+                        "Offset": 76300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "people",
+                        "Offset": 79500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "holly",
+                        "Offset": 94300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "people",
+                        "Offset": 97500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "holly",
+                        "Offset": 112300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "people",
+                        "Offset": 115500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "holly",
+                        "Offset": 130300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "people",
+                        "Offset": 133900000,
+                        "Duration": 3200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.55030555,
+                "Lexical": "body people body people body people holly people holly people holly people holly people holly people holly people",
+                "ITN": "body people body people body people holly people holly people holly people holly people holly people holly people",
+                "MaskedITN": "body people body people body people holly people holly people holly people holly people holly people holly people",
+                "Display": "body people body people body people holly people holly people holly people holly people holly people holly people",
+                "Words": [
+                    {
+                        "Word": "body",
+                        "Offset": 2700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "people",
+                        "Offset": 7100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "body",
+                        "Offset": 10300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "people",
+                        "Offset": 21500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "body",
+                        "Offset": 23900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "people",
+                        "Offset": 25500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "holly",
+                        "Offset": 40300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "people",
+                        "Offset": 43500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "holly",
+                        "Offset": 58300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "people",
+                        "Offset": 61500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "holly",
+                        "Offset": 76300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "people",
+                        "Offset": 79500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "holly",
+                        "Offset": 94300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "people",
+                        "Offset": 97500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "holly",
+                        "Offset": 112300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "people",
+                        "Offset": 115500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "holly",
+                        "Offset": 130300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "people",
+                        "Offset": 133900000,
+                        "Duration": 3200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.5760116,
+                "Lexical": "body people body people body people body people holly people holly people holly people holly people",
+                "ITN": "body people body people body people body people holly people holly people holly people holly people",
+                "MaskedITN": "body people body people body people body people holly people holly people holly people holly people",
+                "Display": "body people body people body people body people holly people holly people holly people holly people",
+                "Words": [
+                    {
+                        "Word": "body",
+                        "Offset": 2700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "people",
+                        "Offset": 7100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "body",
+                        "Offset": 22700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "people",
+                        "Offset": 25100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "body",
+                        "Offset": 41900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "people",
+                        "Offset": 43500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "body",
+                        "Offset": 45900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "people",
+                        "Offset": 61500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "holly",
+                        "Offset": 76300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "people",
+                        "Offset": 79500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "holly",
+                        "Offset": 94300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "people",
+                        "Offset": 97500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "holly",
+                        "Offset": 112300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "people",
+                        "Offset": 115500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "holly",
+                        "Offset": 130300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "people",
+                        "Offset": 133900000,
+                        "Duration": 3200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.5580505,
+                "Lexical": "body people body people body people body people holly people holly people holly people holly people holy people",
+                "ITN": "body people body people body people body people holly people holly people holly people holly people holy people",
+                "MaskedITN": "body people body people body people body people holly people holly people holly people holly people holy people",
+                "Display": "body people body people body people body people holly people holly people holly people holly people holy people",
+                "Words": [
+                    {
+                        "Word": "body",
+                        "Offset": 2700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "people",
+                        "Offset": 7100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "body",
+                        "Offset": 10300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "people",
+                        "Offset": 21500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "body",
+                        "Offset": 23900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "people",
+                        "Offset": 25500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "body",
+                        "Offset": 41900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "people",
+                        "Offset": 43500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "holly",
+                        "Offset": 58300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "people",
+                        "Offset": 61500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "holly",
+                        "Offset": 76300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "people",
+                        "Offset": 79500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "holly",
+                        "Offset": 94300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "people",
+                        "Offset": 97500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "holly",
+                        "Offset": 112300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "people",
+                        "Offset": 115500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "holy",
+                        "Offset": 130300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "people",
+                        "Offset": 133900000,
+                        "Duration": 3200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.55718666,
+                "Lexical": "body people body people body people body people holly people holly people holly people holly people polly people",
+                "ITN": "body people body people body people body people holly people holly people holly people holly people polly people",
+                "MaskedITN": "body people body people body people body people holly people holly people holly people holly people polly people",
+                "Display": "body people body people body people body people holly people holly people holly people holly people polly people",
+                "Words": [
+                    {
+                        "Word": "body",
+                        "Offset": 2700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "people",
+                        "Offset": 7100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "body",
+                        "Offset": 10300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "people",
+                        "Offset": 21500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "body",
+                        "Offset": 23900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "people",
+                        "Offset": 25500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "body",
+                        "Offset": 41900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "people",
+                        "Offset": 43500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "holly",
+                        "Offset": 58300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "people",
+                        "Offset": 61500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "holly",
+                        "Offset": 76300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "people",
+                        "Offset": 79500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "holly",
+                        "Offset": 94300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "people",
+                        "Offset": 97500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "holly",
+                        "Offset": 112300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "people",
+                        "Offset": 115500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "polly",
+                        "Offset": 130300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "people",
+                        "Offset": 133900000,
+                        "Duration": 3200000
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": "0da8ce1f14b54363a7501551d47d92e7",
+        "RecognitionStatus": 0,
+        "Offset": 320700000,
+        "Duration": 7600000,
+        "Channel": 0,
+        "DisplayText": "Let's let's begin.",
+        "NBest": [
+            {
+                "Confidence": 0.55279016,
+                "Lexical": "let's let's begin",
+                "ITN": "let's let's begin",
+                "MaskedITN": "let's let's begin",
+                "Display": "Let's let's begin.",
+                "Words": [
+                    {
+                        "Word": "let's",
+                        "Offset": 320700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "let's",
+                        "Offset": 322700000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "begin",
+                        "Offset": 325100000,
+                        "Duration": 3200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.6924804,
+                "Lexical": "let's begin",
+                "ITN": "let's begin",
+                "MaskedITN": "let's begin",
+                "Display": "let's begin",
+                "Words": [
+                    {
+                        "Word": "let's",
+                        "Offset": 320700000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "begin",
+                        "Offset": 325100000,
+                        "Duration": 3200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.2509469,
+                "Lexical": "let's let's begins",
+                "ITN": "let's let's begins",
+                "MaskedITN": "let's let's begins",
+                "Display": "let's let's begins",
+                "Words": [
+                    {
+                        "Word": "let's",
+                        "Offset": 320700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "let's",
+                        "Offset": 322700000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "begins",
+                        "Offset": 325100000,
+                        "Duration": 4000000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.24844342,
+                "Lexical": "let's begins",
+                "ITN": "let's begins",
+                "MaskedITN": "let's begins",
+                "Display": "let's begins",
+                "Words": [
+                    {
+                        "Word": "let's",
+                        "Offset": 320700000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "begins",
+                        "Offset": 325100000,
+                        "Duration": 4000000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.41471073,
+                "Lexical": "let's let's begin it",
+                "ITN": "let's let's begin it",
+                "MaskedITN": "let's let's begin it",
+                "Display": "let's let's begin it",
+                "Words": [
+                    {
+                        "Word": "let's",
+                        "Offset": 320700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "let's",
+                        "Offset": 322700000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "begin",
+                        "Offset": 325100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "it",
+                        "Offset": 328300000,
+                        "Duration": 1200000
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": "e000953ec22a42fdb01b713a8c96c31c",
+        "RecognitionStatus": 0,
+        "Offset": 94700000,
+        "Duration": 8400000,
+        "Channel": 0,
+        "DisplayText": "Let's let's begin.",
+        "NBest": [
+            {
+                "Confidence": 0.71886563,
+                "Lexical": "let's let's begin",
+                "ITN": "let's let's begin",
+                "MaskedITN": "let's let's begin",
+                "Display": "Let's let's begin.",
+                "Words": [
+                    {
+                        "Word": "let's",
+                        "Offset": 789300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "let's",
+                        "Offset": 791700000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "begin",
+                        "Offset": 794100000,
+                        "Duration": 3600000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.55063903,
+                "Lexical": "let's let's let's begin",
+                "ITN": "let's let's let's begin",
+                "MaskedITN": "let's let's let's begin",
+                "Display": "let's let's let's begin",
+                "Words": [
+                    {
+                        "Word": "let's",
+                        "Offset": 789300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "let's",
+                        "Offset": 791700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "let's",
+                        "Offset": 793700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "begin",
+                        "Offset": 795700000,
+                        "Duration": 2000000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.53924376,
+                "Lexical": "let's let's begin to",
+                "ITN": "let's let's begin to",
+                "MaskedITN": "let's let's begin to",
+                "Display": "let's let's begin to",
+                "Words": [
+                    {
+                        "Word": "let's",
+                        "Offset": 789300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "let's",
+                        "Offset": 791700000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "begin",
+                        "Offset": 794100000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 797700000,
+                        "Duration": 800000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.44062346,
+                "Lexical": "let's let's let's begin to",
+                "ITN": "let's let's let's begin to",
+                "MaskedITN": "let's let's let's begin to",
+                "Display": "let's let's let's begin to",
+                "Words": [
+                    {
+                        "Word": "let's",
+                        "Offset": 789300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "let's",
+                        "Offset": 791700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "let's",
+                        "Offset": 793700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "begin",
+                        "Offset": 795700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 797700000,
+                        "Duration": 800000
+                    }
+                ]
+            }
+        ]
+    }
+]
